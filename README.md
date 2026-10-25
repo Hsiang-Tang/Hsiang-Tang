@@ -9,14 +9,6 @@ unfamiliar domains quickly and verifiably.
 
 ## Projects
 
-<p>
-  <a href="https://hsiang-tang.github.io/canopus/assets/dashboard-sample.html"><img src="assets/preview-canopus.png" width="49%" alt="Canopus: task dashboard with convergence decisions"></a>
-  <a href="https://github.com/Hsiang-Tang/keyflip"><img src="assets/preview-keyflip.png" width="49%" alt="keyflip: a mixed Chinese and English message typed on a Zhuyin keyboard"></a>
-  <a href="https://hsiang-tang.github.io/network-switch-anatomy/"><img src="assets/preview-anatomy.png" width="49%" alt="network-switch-anatomy: isometric drawing of an 8-port switch"></a>
-  <a href="https://apps.apple.com/tw/app/alphalia/id6804235042"><img src="assets/preview-alphalia.png" width="49%" alt="Alphalia: net worth, allocation and trend screens"></a>
-  <a href="https://github.com/Hsiang-Tang/tradclip"><img src="assets/preview-tradclip.png" width="49%" alt="tradclip: Simplified text in a chat window, the clipboard and a terminal showing it in Traditional"></a>
-</p>
-
 | Project | What it proves | Try it |
 | --- | --- | --- |
 | [Canopus](https://github.com/Hsiang-Tang/canopus) | The method: frozen acceptance envelopes, convergence gates, circuit breakers, and a Claude Code Stop-hook latch that keep long-running agents on goal. Standard-library Python. | [Dashboard](https://hsiang-tang.github.io/canopus/assets/dashboard-sample.html) · [Adopt in 15 minutes](https://github.com/Hsiang-Tang/canopus/blob/main/playbooks/adopting-canopus.md) |
